@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/AI-Emergency%20Intelligence-00B8D4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Frontend-React%20%2F%20Vite-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Offline-Resilient-FF3D00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hackathon-iQOO%202026-FFC107?style=for-the-badge" />
 </p>
 
 <p align="center"><strong>TEAM TWOPOINTERS</strong></p>
